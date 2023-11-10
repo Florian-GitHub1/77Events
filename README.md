@@ -1,15 +1,16 @@
-# 724 Events
+# 77Events
 
 ## Description
-L'application est le site d'une agence evenementielle.
+Site d'une agence evenementielle.
+
 ## Pre-requis
 - NodeJS  >= v16.14.1
 
 ## Installation
-- `yarn install`
+- `npm install`
 
 ## Lancement de l'application
-- `yarn start`
+- `npm start`
 
 ## Tests
-- `yarn test`
+- `npm run test`
